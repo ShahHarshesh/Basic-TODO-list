@@ -1,4 +1,4 @@
-#A simple Todo List using React.js
+# A simple Todo List using React.js
 ## Features
   * Add tasks to the todo list
   * Mark tasks as complete
