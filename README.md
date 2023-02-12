@@ -17,7 +17,7 @@ git clone https://github.com/ShahHarshesh/Basic-TODO-list.git
 ```
 ###### Navigate to the project directory
 ```
-cd todo-list-react
+cd Basic-TODO-list
 ```
 ###### Install the dependencies
 ```
