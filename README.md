@@ -1,14 +1,14 @@
 A simple and user-friendly todo list application built using React.js framework.
 
 ## Features
-  Add tasks to the todo list
-  Mark tasks as complete
-  Delete tasks
-  Dark UI
+  * Add tasks to the todo list
+  * Mark tasks as complete
+  * Delete tasks
+  * Dark UI
   
 ## Prerequisites
-Node.js installed on your machine
-npm (Node Package Manager) installed on your machine
+* Node.js installed on your machine
+* npm (Node Package Manager) installed on your machine
 
 ## Installation
 
@@ -29,9 +29,9 @@ npm install
 npm start
 ```
 ## Built with
-  React.js
-  JavaScript
-  CSS
+  * React.js
+  * JavaScript
+  * CSS
     
 ## Contributing
 Contributions are welcome! Please feel free to fork the repository and make changes. If you have any suggestions or improvements, please create a pull request.
