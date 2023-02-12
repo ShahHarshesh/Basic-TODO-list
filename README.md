@@ -1,5 +1,4 @@
-A simple and user-friendly todo list application built using React.js framework.
-
+#A simple Todo List using React.js
 ## Features
   * Add tasks to the todo list
   * Mark tasks as complete
@@ -35,3 +34,6 @@ npm start
     
 ## Contributing
 Contributions are welcome! Please feel free to fork the repository and make changes. If you have any suggestions or improvements, please create a pull request.
+
+## Reference
+* https://www.code-boost.com/
