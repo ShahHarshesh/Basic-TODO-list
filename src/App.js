@@ -60,7 +60,7 @@ function App() {
   return (
     <div id="todo-list">
       <title> logo.svg </title>
-      <h1> 📝 TODO LIST 📝 </h1>
+      <h1> 📝 TaskMaster 📝 </h1>
       <h2> your one and only task manager </h2>
       <form onSubmit={handleSubmit}>
         <input
